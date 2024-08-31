@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "806247951038",
+    "project_id": "farmerconnect-45f1a",
+    "storage_bucket": "farmerconnect-45f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806247951038:android:27b4cc9d806717cbdd8cef",
+        "android_client_info": {
+          "package_name": "com.example.farmconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806247951038-inrnqiodjrha3garvkvs6mao6bt4pjgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmconnect",
+            "certificate_hash": "ebf7f7512bc14bf69abcfedecebbe381dd3687d8"
+          }
+        },
+        {
+          "client_id": "806247951038-vs9qlu0ju9fep6j4pguo3vgmibh28ta0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfvx7DmUjjjBY31eYWJpTR2fpT4woQ_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806247951038-vs9qlu0ju9fep6j4pguo3vgmibh28ta0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806247951038-1l01igak24l9mlgg5g7dnek8opnmhgcl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.farmconnect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806247951038:android:3a77d840bcc54a7cdd8cef",
+        "android_client_info": {
+          "package_name": "com.farmconnect.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806247951038-vs9qlu0ju9fep6j4pguo3vgmibh28ta0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfvx7DmUjjjBY31eYWJpTR2fpT4woQ_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806247951038-vs9qlu0ju9fep6j4pguo3vgmibh28ta0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806247951038-1l01igak24l9mlgg5g7dnek8opnmhgcl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.farmconnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
